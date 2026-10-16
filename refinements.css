@@ -1,0 +1,2 @@
+#motion-toggle{left:50%;bottom:23px;transform:translateX(-50%)}
+@media(max-width:700px){#motion-toggle{left:auto;right:6%;bottom:80px;transform:none}}
